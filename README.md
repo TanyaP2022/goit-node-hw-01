@@ -2,7 +2,7 @@
 
 node index.js --action="list"
 
-https://monosnap.com/file/TCFtnJNhBPfoAUjsF3T7zvOjDcnt8n
+https://monosnap.com/file/yeb9OlqkpvjSgdIsEN785pEOj98uN7
 
 # Отримуємо контакт по id
 
